@@ -1,0 +1,23 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9497658..3084866 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,4 @@[m
+ # 2023MT93366_Devops[m
+ This repository is creates for an assignment of subject: Introduction to Devops[m
+[32m+[m
+[32m+[m[32minitial commit: folder1 and folder2 added[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/folder1/class1.java b/folder1/class1.java[m
+[1mindex 653a837..289ede1 100644[m
+[1m--- a/folder1/class1.java[m
+[1m+++ b/folder1/class1.java[m
+[36m@@ -6,4 +6,8 @@[m [mpublic class Class1 {[m
+     private String email;[m
+     private String password;[m
+ 	[m
+[32m+[m	[32mpublic static void main(String [] args){[m
+[32m+[m		[32mSystem.out.println("Source code changed");[m
+[32m+[m	[32m}[m
+[32m+[m[41m	[m
+ }[m

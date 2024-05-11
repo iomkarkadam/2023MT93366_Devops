@@ -6,4 +6,8 @@ public class Class1 {
     private String email;
     private String password;
 	
+	public static void main(String [] args){
+		System.out.println("Source code changed");
+	}
+	
 }
